@@ -72,3 +72,11 @@ If needed, create a `.env` file to store configuration values (optional for this
 - Implementing Jest unit tests
 - Building and pushing Docker images
 - Setting up automated CI/CD pipelines with GitHub Actions
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+## 💡 Acknowledgements
+
+Thanks for checking out **Calculator App!**
